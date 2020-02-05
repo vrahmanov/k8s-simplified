@@ -50,6 +50,7 @@ Pods can hold multiple containers, but you should limit yourself when possible. 
 Deployments
 
 ![GitHub Logo](https://miro.medium.com/max/4034/1*iTAVk3glVD95hb-X3HiCKg.png)
+![GitHub Logo](https://miro.medium.com/max/4034/1*iTAVk3glVD95hb-X3HiCKg.png)
 
 Although pods are the basic unit of computation in Kubernetes, they are not typically directly launched on a cluster. Instead, pods are usually managed by one more layer of abstraction: the deployment.
 A deployment’s primary purpose is to declare how many replicas of a pod should be running at a time. When a deployment is added to the cluster, it will automatically spin up the requested number of pods, and then monitor them. If a pod dies, the deployment will automatically re-create it.
