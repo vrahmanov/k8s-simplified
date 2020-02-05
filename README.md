@@ -48,7 +48,12 @@ Pods can hold multiple containers, but you should limit yourself when possible. 
 
 
 Deployments
+<<<<<<< HEAD
 ![test](https://miro.medium.com/max/4034/1*iTAVk3glVD95hb-X3HiCKg.png)
+=======
+
+![GitHub Logo](https://miro.medium.com/max/4034/1*iTAVk3glVD95hb-X3HiCKg.png)
+>>>>>>> 213ef321cf579ab4f6c15d3bfec05bff87c34eb0
 
 
 Although pods are the basic unit of computation in Kubernetes, they are not typically directly launched on a cluster. Instead, pods are usually managed by one more layer of abstraction: the deployment.
