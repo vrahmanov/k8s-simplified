@@ -48,7 +48,6 @@ Pods can hold multiple containers, but you should limit yourself when possible. 
 
 
 Deployments
-
 ![test](https://miro.medium.com/max/4034/1*iTAVk3glVD95hb-X3HiCKg.png)
 
 
